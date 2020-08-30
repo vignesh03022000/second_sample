@@ -1,0 +1,56 @@
+div
+{
+    background-color: blue;
+    display: inline;
+}
+#hotdog p {
+    background: brown;
+    display: inline;
+  }
+  #hotdog p#mustard {
+    background: yellow;
+    display: inline;
+
+  }
+
+  #green p
+  {
+    background:green;
+    display: inline;
+  }
+  #green p.blue
+  {
+    background:blue;
+    display: inline;
+  }
+   #container ol{
+    font-weight:bold;
+    Background:pink;
+    }
+    div#container p.hara
+    {
+        Background:purple;
+    }
+    div#container>p{
+        font-weight:bold;
+        Background:pink;
+        }
+
+    #try p#Green
+    {
+        background:green;
+    }
+    #try p.pink
+    {
+        background:pink;
+    }
+    #try p.violet
+    {
+        background:purple;
+    }
+    #combine
+    {
+        background: red;
+    }
+  
+  
